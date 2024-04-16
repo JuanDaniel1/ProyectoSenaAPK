@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "473814828693",
+    "project_id": "precise-airship-402104",
+    "storage_bucket": "precise-airship-402104.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:473814828693:android:6d1caf3b23f2317cb8bd9c",
+        "android_client_info": {
+          "package_name": "com.example.shop_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBO6M67m890ZkRoI28xTO3PQ9dTiqx3Lr0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
